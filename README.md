@@ -44,7 +44,7 @@
 
 #### Team Members:
 
-- Owen Yang (Github: owenkyang)
+- Owen Yang (Github: [owenkyang](https://github.com/owenkyang))
 - Avi Mehta (Github: avimehta30)
 - Andrew Yin (Github: ayinfly)
 - David Wang (Github: dwang88)

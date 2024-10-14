@@ -46,7 +46,7 @@
 
 - Owen Yang (Github: [owenkyang](https://github.com/owenkyang))
 - Avi Mehta (Github: avimehta30)
-- Andrew Yin (Github: ayinfly)
+- Andrew Yin (Github: [ayinfly](https://github.com/ayinfly))
 - David Wang (Github: dwang88)
 
 

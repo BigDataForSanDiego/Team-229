@@ -10,7 +10,7 @@
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://userway.org/blog/healthcare-and-accessibility/"> 
+<img src="img1.jpeg" alt="img" width="800" height="600" />
 
 <!--
 #### Theme: Enhancing Healthcare’s Digital Front Door
@@ -44,10 +44,10 @@
 
 #### Team Members:
 
-- Owen Yang (Github: owenkyang)
-- Avi Mehta (Github: avimehta30)
-- Andrew Yin (Github: ayinfly)
-- David Wang (Github: dwang88)
+- Owen Yang (Github: [owenkyang](https://github.com/owenkyang))
+- Avi Mehta (Github: [avimehta30](https://github.com/avimehta30))
+- Andrew Yin (Github: [ayinfly](https://github.com/ayinfly))
+- David Wang (Github: [dwang88](https://github.com/dwang88))
 
 
 

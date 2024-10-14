@@ -1,0 +1,22 @@
+{
+  "name": "team-229",
+  "version": "1.0.0",
+  "description": "Big Data Hacks Potato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigDataForSanDiego/Team-229.git#main"
+  },
+  "author": "Owen Yang, Avi Mehta, David Wang, Andrew Yin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BigDataForSanDiego/Team-229/issues"
+  },
+  "homepage": "https://github.com/BigDataForSanDiego/Team-229/tree/main#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

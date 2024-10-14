@@ -5,7 +5,7 @@
 #### Team Name: `Potato`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `App to find most efficient healthcare based on factors such as injuries, health insurance, and location.`
+##### `CareDirect: App to find most efficient healthcare based on factors such as injuries, health insurance, and location.`
 
 
 #### A visual

@@ -1,10 +1,10 @@
 import React from 'react';
 import { StyleSheet, Platform } from 'react-native';
 import MapView from 'react-native-maps';
-import { HelloWave } from '@/frontend/components/HelloWave';
-import ParallaxScrollView from '@/frontend/components/ParallaxScrollView';
-import { ThemedText } from '@/frontend/components/ThemedText';
-import { ThemedView } from '@/frontend/components/ThemedView';
+import { HelloWave } from '@/app/components/HelloWave';
+import ParallaxScrollView from '@/app/components/ParallaxScrollView';
+import { ThemedText } from '@/app/components/ThemedText';
+import { ThemedView } from '@/app/components/ThemedView';
 
 export default function HomeScreen() {
   return (

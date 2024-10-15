@@ -1,6 +1,9 @@
 import express from "express";
+import mongoose from "mongoose";
 
-const login = async (req, res) => {
+export const login = async (req, res) => {
     
 }
-export default login;
+export const register = async(req, res) => {
+
+}

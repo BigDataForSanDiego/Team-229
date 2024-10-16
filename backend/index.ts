@@ -3,7 +3,7 @@ import path from "path";
 import dotenv from "dotenv";
 import { connectDB } from "./db/connect";
 import authRouter from "./routers/authRouter";
-
+import { authmiddleware } from "./middleware/authmiddle";
 
 dotenv.config();
 

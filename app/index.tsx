@@ -4,7 +4,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import LoginScreen from './screens/LoginScreen';
 import RegisterScreen from './screens/RegisterScreen';
 import MapScreen from './screens/MapScreen';
-import { StackParamList } from './screens/LoginScreen';
+import { StackParamList } from './types/screenprops';
 
 const Stack = createStackNavigator<StackParamList>();
 

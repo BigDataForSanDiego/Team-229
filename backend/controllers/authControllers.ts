@@ -18,10 +18,14 @@ export const login = async (req: Request, res: Response):Promise<void> => {
       const samePass = await bcrypt.compare(password, curUser.password)
       if (!samePass){
         res.status(400).json({message: 'Wrong password, please try again'})
+        return;
       }
+      const token = jwt.sign({id: curUser._id, username: curUser.email}, process.env.JWT_SECRET as Secret, {expiresIn: '30d'})
+      res.status(201).json({ token, message: 'User logged in successfully' });
     }
     catch(error){
-
+      console.log(error);
+      res.status(500).json({message: 'Error logging user in'})
     }
 }
 

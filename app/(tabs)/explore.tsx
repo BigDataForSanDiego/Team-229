@@ -1,11 +1,11 @@
 import Ionicons from '@expo/vector-icons/Ionicons';
 import { StyleSheet, Image, Platform } from 'react-native';
 
-import { Collapsible } from '@/frontend/components/Collapsible';
-import { ExternalLink } from '@/frontend/components/ExternalLink';
-import ParallaxScrollView from '@/frontend/components/ParallaxScrollView';
-import { ThemedText } from '@/frontend/components/ThemedText';
-import { ThemedView } from '@/frontend/components/ThemedView';
+import { Collapsible } from '@/app/components/Collapsible';
+import { ExternalLink } from '@/app/components/ExternalLink';
+import ParallaxScrollView from '@/app/components/ParallaxScrollView';
+import { ThemedText } from '@/app/components/ThemedText';
+import { ThemedView } from '@/app/components/ThemedView';
 
 export default function TabTwoScreen() {
   return (
@@ -42,7 +42,7 @@ export default function TabTwoScreen() {
           <ThemedText type="defaultSemiBold">@3x</ThemedText> suffixes to provide files for
           different screen densities
         </ThemedText>
-        <Image source={require('@/assets/images/react-logo.png')} style={{ alignSelf: 'center' }} />
+        <Image source={require('../assets/images/react-logo.png')} style={{ alignSelf: 'center' }} />
         <ExternalLink href="https://reactnative.dev/docs/images">
           <ThemedText type="link">Learn more</ThemedText>
         </ExternalLink>

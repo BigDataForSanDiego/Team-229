@@ -5,11 +5,9 @@ import { connectDB } from "./db/connect";
 import authRouter from "./routers/authRouter";
 import { authmiddleware } from "./middleware/authmiddle";
 
-dotenv.config();
+dotenv.config({path: path.resolve(__dirname, '../.env') });
 
 const app = express();
-const __dirname = path.resolve()
-
 app.use('/api/auth', authRouter)
 
 app.use(express.urlencoded({extended: true, limit: '50 mb'}))

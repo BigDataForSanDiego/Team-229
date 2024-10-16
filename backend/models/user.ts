@@ -1,6 +1,13 @@
-import mongoose from "mongoose";
+import mongoose, { Document, Schema, model } from 'mongoose';
 
-const userSchema = new mongoose.Schema({
+const validInsurances = ['Aetna', 'Blue Cross', 'United Healthcare', 'Cigna', 'Humana'];
+
+export interface IUser extends Document {
+  email: string;
+  password: string;
+  insurance: string;
+}
+const userSchema = new Schema<IUser>({
     email: {
         type: String,
         required: [true, 'email is required'],
@@ -13,8 +20,12 @@ const userSchema = new mongoose.Schema({
     },
     insurance: {
         type: String,
-        required: true
+        required: [true, 'Insurance is required'],
+        enum: {
+            values: validInsurances,
+            message: '{VALUE} not a valid insurance provider'
+        }
     }
 }, {timestamps: true})
-const User = mongoose.model("User", userSchema);
+const User = model<IUser>("User", userSchema);
 export default User;

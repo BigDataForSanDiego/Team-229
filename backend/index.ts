@@ -8,10 +8,11 @@ import { authmiddleware } from "./middleware/authmiddle";
 dotenv.config({path: path.resolve(__dirname, '../.env') });
 
 const app = express();
-app.use('/api/auth', authRouter)
 
 app.use(express.urlencoded({extended: true, limit: '50 mb'}))
 app.use(express.json({limit: '50 mb'}))
+
+app.use('/api/auth', authRouter)
 
 const port = process.env.PORT || 5000
 const start = async () => {

@@ -13,7 +13,7 @@ interface LoginData {
 
 type Props = NativeStackScreenProps<StackParamList, 'Login'>
 
-const LoginScreen = ({route, navigation }: Props) => {
+const LoginScreen = ({navigation }: Props) => {
   const { control, handleSubmit, reset } = useForm({
     defaultValues: { email: '', password: '' },
   });

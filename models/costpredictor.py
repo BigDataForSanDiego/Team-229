@@ -1,3 +1,4 @@
+from sklearn.metrics import mean_absolute_error
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import OneHotEncoder
@@ -25,11 +26,14 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 
 pipeline.fit(X_train, y_train)
 
-train_score = pipeline.score(X_train, y_train)
-test_score = pipeline.score(X_test, y_test)
+y_train_pred = pipeline.predict(X_train)
+y_test_pred = pipeline.predict(X_test)
+
+train_mae = mean_absolute_error(y_train, y_train_pred)
+test_mae = mean_absolute_error(y_test, y_test_pred)
 
 model_filename = 'saved_models/cost_rfr.pkl'
 with open(model_filename, 'wb') as f:
     pickle.dump(pipeline, f)
 
-print(train_score, test_score, model_filename)
+print(train_mae, test_mae, model_filename)

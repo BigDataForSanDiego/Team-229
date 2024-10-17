@@ -1,0 +1,1001 @@
+injury,hospital_brand,location,out_of_pocket_cost
+allergic reaction,Sharp Grossmont Hospital,La Jolla,2418.82
+asthma attack,Rady Children's Hospital,Oceanside,3126.6
+laceration,Tri-City Medical Center,Oceanside,2626.35
+stroke,Kaiser Permanente San Diego,Chula Vista,5643.92
+stroke,Sharp Memorial Hospital,El Cajon,5361.72
+sprain,Tri-City Medical Center,Chula Vista,2539.76
+concussion,Sharp Memorial Hospital,Oceanside,3598.0
+sprain,Rady Children's Hospital,Oceanside,2886.09
+laceration,Kaiser Permanente San Diego,San Marcos,2382.17
+infection,Scripps La Jolla,El Cajon,2489.37
+asthma attack,Kaiser Permanente San Diego,Encinitas,2620.39
+sprain,Tri-City Medical Center,La Jolla,2770.65
+asthma attack,Scripps Mercy Hospital,Encinitas,3013.45
+laceration,Scripps Mercy Hospital,San Marcos,2739.5
+stroke,Kaiser Permanente San Diego,San Marcos,5130.83
+fracture,Sharp Memorial Hospital,Chula Vista,3325.88
+laceration,Scripps La Jolla,San Marcos,3096.82
+asthma attack,Tri-City Medical Center,Chula Vista,2751.41
+infection,Sharp Memorial Hospital,Hillcrest,2549.84
+heart attack,Scripps La Jolla,Chula Vista,6550.98
+infection,UC San Diego Health,La Jolla,2902.59
+heart attack,Kaiser Permanente San Diego,Escondido,4581.1
+burn,Sharp Memorial Hospital,Encinitas,3104.15
+sprain,Sharp Memorial Hospital,San Marcos,2418.82
+allergic reaction,Sharp Grossmont Hospital,San Marcos,2015.68
+heart attack,Sharp Grossmont Hospital,La Jolla,6047.05
+fracture,Rady Children's Hospital,Oceanside,3607.62
+fracture,Scripps La Jolla,Escondido,3573.26
+fracture,UC San Diego Health,Escondido,3298.39
+laceration,Scripps La Jolla,El Cajon,2941.98
+burn,Scripps Mercy Hospital,San Marcos,2950.23
+stroke,Kaiser Permanente San Diego,Chula Vista,5643.92
+sprain,UC San Diego Health,El Cajon,2506.78
+concussion,Tri-City Medical Center,Oceanside,3434.45
+allergic reaction,Sharp Memorial Hospital,Oceanside,2116.47
+heart attack,Scripps La Jolla,Escondido,5955.43
+burn,Sharp Grossmont Hospital,La Jolla,3386.35
+laceration,Rady Children's Hospital,Chula Vista,3275.49
+laceration,UC San Diego Health,Chula Vista,3144.47
+sprain,Scripps La Jolla,La Jolla,3430.33
+allergic reaction,Kaiser Permanente San Diego,La Jolla,2198.93
+asthma attack,UC San Diego Health,Hillcrest,3287.4
+fracture,UC San Diego Health,Hillcrest,3793.15
+allergic reaction,Tri-City Medical Center,San Marcos,1924.06
+sprain,Kaiser Permanente San Diego,Encinitas,2418.82
+burn,Rady Children's Hospital,La Jolla,3848.13
+concussion,Sharp Grossmont Hospital,Hillcrest,3940.66
+stroke,Kaiser Permanente San Diego,Chula Vista,5643.92
+allergic reaction,Scripps Mercy Hospital,Hillcrest,2423.4
+concussion,Scripps Mercy Hospital,Hillcrest,4119.79
+heart attack,Rady Children's Hospital,Escondido,5726.38
+concussion,Rady Children's Hospital,Oceanside,4088.63
+allergic reaction,Kaiser Permanente San Diego,Chula Vista,2015.68
+fracture,Tri-City Medical Center,Escondido,2886.09
+heart attack,Scripps La Jolla,Escondido,5955.43
+fracture,UC San Diego Health,Hillcrest,3793.15
+sprain,Tri-City Medical Center,Chula Vista,2539.76
+sprain,Scripps Mercy Hospital,Hillcrest,2908.08
+concussion,Rady Children's Hospital,Encinitas,4283.33
+concussion,Kaiser Permanente San Diego,Encinitas,3426.66
+fracture,Scripps Mercy Hospital,Chula Vista,3477.06
+fracture,Kaiser Permanente San Diego,Oceanside,2886.09
+infection,Sharp Grossmont Hospital,Hillcrest,2549.84
+sprain,UC San Diego Health,La Jolla,3166.46
+burn,Sharp Memorial Hospital,Oceanside,2963.06
+infection,Tri-City Medical Center,El Cajon,2010.65
+sprain,Scripps La Jolla,Oceanside,3001.54
+burn,Scripps Mercy Hospital,San Marcos,2950.23
+allergic reaction,Tri-City Medical Center,El Cajon,1827.86
+allergic reaction,Tri-City Medical Center,San Marcos,1924.06
+burn,Scripps Mercy Hospital,Chula Vista,3245.25
+fracture,Sharp Memorial Hospital,Hillcrest,3477.06
+allergic reaction,Tri-City Medical Center,Encinitas,2116.47
+burn,Sharp Grossmont Hospital,Oceanside,2963.06
+asthma attack,UC San Diego Health,Chula Vista,3144.47
+heart attack,Tri-City Medical Center,Hillcrest,5531.68
+allergic reaction,Tri-City Medical Center,La Jolla,2308.88
+sprain,Kaiser Permanente San Diego,Oceanside,2308.88
+fracture,Rady Children's Hospital,Oceanside,3607.62
+stroke,Scripps Mercy Hospital,San Marcos,5900.46
+laceration,Tri-City Medical Center,Oceanside,2626.35
+allergic reaction,Sharp Memorial Hospital,La Jolla,2418.82
+fracture,Sharp Memorial Hospital,Encinitas,3325.88
+heart attack,Sharp Memorial Hospital,Hillcrest,5795.09
+heart attack,Scripps La Jolla,Escondido,5955.43
+infection,Kaiser Permanente San Diego,La Jolla,2418.82
+stroke,Rady Children's Hospital,San Marcos,6413.54
+allergic reaction,Rady Children's Hospital,Hillcrest,2634.13
+heart attack,Tri-City Medical Center,Encinitas,5291.17
+sprain,Tri-City Medical Center,Encinitas,2539.76
+infection,Scripps Mercy Hospital,Encinitas,2549.84
+fracture,Scripps Mercy Hospital,San Marcos,3160.96
+allergic reaction,UC San Diego Health,La Jolla,2638.71
+sprain,Kaiser Permanente San Diego,Escondido,2198.93
+heart attack,Scripps La Jolla,Oceanside,6253.2
+fracture,Rady Children's Hospital,Encinitas,3779.41
+infection,Tri-City Medical Center,Oceanside,2222.29
+heart attack,Scripps Mercy Hospital,Hillcrest,6058.51
+laceration,UC San Diego Health,Oceanside,3001.54
+infection,Kaiser Permanente San Diego,Oceanside,2116.47
+sprain,UC San Diego Health,Chula Vista,2902.59
+heart attack,Sharp Memorial Hospital,San Marcos,5039.21
+sprain,Kaiser Permanente San Diego,Escondido,2198.93
+laceration,Scripps Mercy Hospital,San Marcos,2739.5
+laceration,Tri-City Medical Center,Escondido,2501.28
+infection,Scripps Mercy Hospital,San Marcos,2318.04
+fracture,Scripps Mercy Hospital,Encinitas,3477.06
+heart attack,Sharp Memorial Hospital,Encinitas,5543.13
+fracture,UC San Diego Health,San Marcos,3298.39
+asthma attack,Tri-City Medical Center,Chula Vista,2751.41
+asthma attack,Sharp Memorial Hospital,Chula Vista,2882.43
+sprain,Sharp Grossmont Hospital,Oceanside,2539.76
+stroke,Sharp Grossmont Hospital,San Marcos,5643.92
+asthma attack,Rady Children's Hospital,El Cajon,2828.83
+allergic reaction,Scripps La Jolla,El Cajon,2263.06
+heart attack,Sharp Memorial Hospital,Chula Vista,5543.13
+allergic reaction,Kaiser Permanente San Diego,Oceanside,1924.06
+stroke,Rady Children's Hospital,Escondido,6413.54
+laceration,Kaiser Permanente San Diego,Oceanside,2501.28
+burn,Sharp Memorial Hospital,Oceanside,2963.06
+sprain,Scripps La Jolla,Encinitas,3144.47
+asthma attack,Sharp Grossmont Hospital,El Cajon,2489.37
+allergic reaction,UC San Diego Health,Hillcrest,2528.77
+fracture,Sharp Grossmont Hospital,Chula Vista,3325.88
+fracture,UC San Diego Health,Escondido,3298.39
+concussion,Sharp Memorial Hospital,El Cajon,3255.33
+concussion,Sharp Memorial Hospital,La Jolla,4112.0
+concussion,Rady Children's Hospital,La Jolla,4672.72
+infection,Tri-City Medical Center,Hillcrest,2433.94
+asthma attack,Rady Children's Hospital,San Marcos,2977.72
+laceration,Kaiser Permanente San Diego,La Jolla,2858.61
+allergic reaction,Sharp Grossmont Hospital,San Marcos,2015.68
+infection,UC San Diego Health,La Jolla,2902.59
+concussion,Rady Children's Hospital,Encinitas,4283.33
+laceration,Scripps La Jolla,Escondido,3096.82
+laceration,Kaiser Permanente San Diego,Encinitas,2620.39
+burn,Scripps Mercy Hospital,Chula Vista,3245.25
+burn,Scripps Mercy Hospital,San Marcos,2950.23
+fracture,Sharp Grossmont Hospital,El Cajon,2872.35
+stroke,Kaiser Permanente San Diego,Chula Vista,5643.92
+burn,Kaiser Permanente San Diego,La Jolla,3078.5
+infection,Tri-City Medical Center,Chula Vista,2328.12
+fracture,Sharp Memorial Hospital,Oceanside,3174.7
+asthma attack,UC San Diego Health,El Cajon,2715.68
+heart attack,Scripps La Jolla,Hillcrest,6848.75
+infection,Rady Children's Hospital,Chula Vista,2771.57
+stroke,Scripps Mercy Hospital,Chula Vista,6490.51
+allergic reaction,Sharp Grossmont Hospital,Hillcrest,2318.04
+infection,Rady Children's Hospital,Escondido,2519.61
+infection,Scripps La Jolla,Oceanside,2751.41
+concussion,Rady Children's Hospital,Encinitas,4283.33
+stroke,UC San Diego Health,Hillcrest,7080.55
+infection,Tri-City Medical Center,Escondido,2116.47
+asthma attack,Rady Children's Hospital,La Jolla,3573.26
+infection,Sharp Grossmont Hospital,Hillcrest,2549.84
+allergic reaction,Kaiser Permanente San Diego,El Cajon,1740.82
+fracture,Scripps La Jolla,Encinitas,3930.59
+heart attack,UC San Diego Health,El Cajon,5222.46
+laceration,Scripps La Jolla,Hillcrest,3561.35
+sprain,Sharp Memorial Hospital,La Jolla,2902.59
+sprain,Rady Children's Hospital,Escondido,2748.66
+allergic reaction,Scripps Mercy Hospital,Escondido,2107.31
+stroke,Sharp Grossmont Hospital,Hillcrest,6490.51
+burn,UC San Diego Health,Encinitas,3386.35
+infection,UC San Diego Health,Hillcrest,2781.65
+sprain,UC San Diego Health,Chula Vista,2902.59
+concussion,Scripps Mercy Hospital,Escondido,3582.42
+concussion,Sharp Grossmont Hospital,San Marcos,3426.66
+heart attack,Sharp Grossmont Hospital,San Marcos,5039.21
+infection,UC San Diego Health,San Marcos,2418.82
+sprain,UC San Diego Health,Hillcrest,3034.52
+asthma attack,UC San Diego Health,Hillcrest,3287.4
+infection,Scripps Mercy Hospital,El Cajon,2202.14
+concussion,Scripps Mercy Hospital,El Cajon,3403.3
+heart attack,Sharp Grossmont Hospital,San Marcos,5039.21
+fracture,Tri-City Medical Center,Chula Vista,3174.7
+stroke,Rady Children's Hospital,Chula Vista,7054.9
+allergic reaction,Kaiser Permanente San Diego,Chula Vista,2015.68
+concussion,Scripps La Jolla,La Jolla,4859.63
+stroke,Sharp Memorial Hospital,Hillcrest,6490.51
+fracture,UC San Diego Health,San Marcos,3298.39
+stroke,Scripps Mercy Hospital,El Cajon,5605.44
+laceration,Scripps La Jolla,Escondido,3096.82
+allergic reaction,Sharp Memorial Hospital,Chula Vista,2217.25
+burn,Rady Children's Hospital,El Cajon,3046.43
+laceration,Scripps Mercy Hospital,Chula Vista,3013.45
+asthma attack,UC San Diego Health,Encinitas,3144.47
+stroke,Scripps Mercy Hospital,El Cajon,5605.44
+sprain,Kaiser Permanente San Diego,Hillcrest,2528.77
+laceration,Tri-City Medical Center,Oceanside,2626.35
+infection,Sharp Memorial Hospital,Escondido,2217.25
+sprain,Kaiser Permanente San Diego,Hillcrest,2528.77
+laceration,Scripps La Jolla,Encinitas,3406.51
+heart attack,Scripps La Jolla,El Cajon,5657.66
+asthma attack,Sharp Memorial Hospital,Oceanside,2751.41
+infection,Sharp Grossmont Hospital,Chula Vista,2438.98
+fracture,Scripps La Jolla,Escondido,3573.26
+laceration,Sharp Grossmont Hospital,El Cajon,2489.37
+infection,Sharp Memorial Hospital,Oceanside,2328.12
+heart attack,Tri-City Medical Center,Encinitas,5291.17
+infection,Kaiser Permanente San Diego,Encinitas,2217.25
+stroke,Scripps Mercy Hospital,Chula Vista,6490.51
+asthma attack,Scripps Mercy Hospital,El Cajon,2602.52
+burn,Rady Children's Hospital,El Cajon,3046.43
+sprain,Scripps Mercy Hospital,La Jolla,3034.52
+stroke,UC San Diego Health,San Marcos,6157.0
+asthma attack,Rady Children's Hospital,La Jolla,3573.26
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+burn,Scripps La Jolla,San Marcos,3335.04
+laceration,Kaiser Permanente San Diego,Chula Vista,2620.39
+heart attack,Scripps Mercy Hospital,San Marcos,5268.27
+infection,UC San Diego Health,Escondido,2418.82
+asthma attack,Sharp Memorial Hospital,Chula Vista,2882.43
+heart attack,Sharp Memorial Hospital,Chula Vista,5543.13
+asthma attack,Sharp Memorial Hospital,Encinitas,2882.43
+infection,UC San Diego Health,Escondido,2418.82
+heart attack,Rady Children's Hospital,Hillcrest,6585.33
+concussion,Scripps La Jolla,Escondido,4049.69
+fracture,Rady Children's Hospital,Oceanside,3607.62
+allergic reaction,Tri-City Medical Center,Encinitas,2116.47
+fracture,UC San Diego Health,Oceanside,3463.31
+sprain,Kaiser Permanente San Diego,El Cajon,2088.98
+asthma attack,Sharp Memorial Hospital,San Marcos,2620.39
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+stroke,Kaiser Permanente San Diego,San Marcos,5130.83
+laceration,Sharp Grossmont Hospital,Oceanside,2751.41
+infection,Tri-City Medical Center,Encinitas,2328.12
+asthma attack,UC San Diego Health,Chula Vista,3144.47
+heart attack,Sharp Memorial Hospital,Escondido,5039.21
+sprain,Kaiser Permanente San Diego,Escondido,2198.93
+burn,Sharp Memorial Hospital,Chula Vista,3104.15
+infection,Scripps Mercy Hospital,Escondido,2318.04
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+heart attack,Tri-City Medical Center,Encinitas,5291.17
+laceration,Sharp Memorial Hospital,San Marcos,2620.39
+fracture,Rady Children's Hospital,La Jolla,4122.99
+burn,Sharp Memorial Hospital,Chula Vista,3104.15
+stroke,UC San Diego Health,Chula Vista,6772.7
+fracture,Sharp Memorial Hospital,El Cajon,2872.35
+burn,Sharp Grossmont Hospital,La Jolla,3386.35
+concussion,Scripps Mercy Hospital,Escondido,3582.42
+heart attack,Tri-City Medical Center,Encinitas,5291.17
+burn,Rady Children's Hospital,San Marcos,3206.77
+asthma attack,Sharp Memorial Hospital,Chula Vista,2882.43
+asthma attack,Kaiser Permanente San Diego,Chula Vista,2620.39
+infection,Tri-City Medical Center,Hillcrest,2433.94
+laceration,Sharp Grossmont Hospital,San Marcos,2620.39
+burn,Scripps Mercy Hospital,La Jolla,3540.28
+laceration,Sharp Grossmont Hospital,Chula Vista,2882.43
+asthma attack,Scripps Mercy Hospital,Chula Vista,3013.45
+heart attack,UC San Diego Health,Hillcrest,6321.92
+sprain,Tri-City Medical Center,Chula Vista,2539.76
+asthma attack,UC San Diego Health,San Marcos,2858.61
+stroke,Sharp Grossmont Hospital,Oceanside,5926.11
+fracture,Sharp Grossmont Hospital,Escondido,3023.53
+heart attack,Sharp Grossmont Hospital,Oceanside,5291.17
+asthma attack,Scripps Mercy Hospital,San Marcos,2739.5
+burn,Kaiser Permanente San Diego,Encinitas,2821.96
+laceration,Scripps Mercy Hospital,El Cajon,2602.52
+asthma attack,Sharp Grossmont Hospital,El Cajon,2489.37
+laceration,UC San Diego Health,La Jolla,3430.33
+asthma attack,Scripps Mercy Hospital,La Jolla,3287.4
+allergic reaction,Rady Children's Hospital,Oceanside,2405.08
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+burn,Sharp Grossmont Hospital,El Cajon,2680.86
+concussion,Sharp Grossmont Hospital,Oceanside,3598.0
+asthma attack,Kaiser Permanente San Diego,San Marcos,2382.17
+laceration,Sharp Grossmont Hospital,Encinitas,2882.43
+burn,Scripps La Jolla,Encinitas,3668.55
+concussion,Kaiser Permanente San Diego,Oceanside,3270.91
+allergic reaction,Sharp Memorial Hospital,Hillcrest,2318.04
+laceration,Tri-City Medical Center,Chula Vista,2751.41
+sprain,Rady Children's Hospital,San Marcos,2748.66
+infection,UC San Diego Health,Chula Vista,2660.7
+allergic reaction,UC San Diego Health,Hillcrest,2528.77
+burn,Tri-City Medical Center,San Marcos,2693.69
+sprain,Scripps Mercy Hospital,El Cajon,2402.33
+laceration,Scripps La Jolla,Hillcrest,3561.35
+asthma attack,UC San Diego Health,San Marcos,2858.61
+allergic reaction,Kaiser Permanente San Diego,La Jolla,2198.93
+burn,Tri-City Medical Center,Encinitas,2963.06
+fracture,Rady Children's Hospital,El Cajon,3264.04
+laceration,UC San Diego Health,Escondido,2858.61
+asthma attack,Sharp Memorial Hospital,La Jolla,3144.47
+infection,Rady Children's Hospital,La Jolla,3023.53
+burn,Scripps Mercy Hospital,El Cajon,2802.72
+allergic reaction,Scripps La Jolla,San Marcos,2382.17
+allergic reaction,Rady Children's Hospital,La Jolla,2748.66
+sprain,Scripps Mercy Hospital,El Cajon,2402.33
+stroke,Scripps La Jolla,Oceanside,7003.59
+concussion,Rady Children's Hospital,Escondido,3893.94
+heart attack,Sharp Grossmont Hospital,La Jolla,6047.05
+concussion,Sharp Memorial Hospital,San Marcos,3426.66
+stroke,Scripps Mercy Hospital,Hillcrest,6785.53
+stroke,Kaiser Permanente San Diego,Oceanside,5387.38
+sprain,Kaiser Permanente San Diego,El Cajon,2088.98
+heart attack,Sharp Grossmont Hospital,Encinitas,5543.13
+laceration,Scripps La Jolla,Encinitas,3406.51
+heart attack,UC San Diego Health,Encinitas,6047.05
+sprain,Kaiser Permanente San Diego,Hillcrest,2528.77
+allergic reaction,Rady Children's Hospital,Escondido,2290.55
+infection,Sharp Grossmont Hospital,Oceanside,2328.12
+stroke,UC San Diego Health,El Cajon,5849.15
+laceration,Kaiser Permanente San Diego,Hillcrest,2739.5
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+stroke,Sharp Memorial Hospital,Encinitas,6208.31
+infection,Scripps La Jolla,Escondido,2620.39
+asthma attack,Kaiser Permanente San Diego,Chula Vista,2620.39
+laceration,Tri-City Medical Center,Escondido,2501.28
+laceration,Rady Children's Hospital,El Cajon,2828.83
+laceration,Rady Children's Hospital,Escondido,2977.72
+laceration,Scripps La Jolla,Chula Vista,3406.51
+sprain,Scripps Mercy Hospital,Hillcrest,2908.08
+heart attack,UC San Diego Health,La Jolla,6596.79
+heart attack,Scripps La Jolla,Oceanside,6253.2
+heart attack,Kaiser Permanente San Diego,Encinitas,5039.21
+burn,Kaiser Permanente San Diego,San Marcos,2565.42
+laceration,Sharp Memorial Hospital,La Jolla,3144.47
+stroke,Sharp Grossmont Hospital,Encinitas,6208.31
+stroke,UC San Diego Health,Oceanside,6464.85
+allergic reaction,Sharp Memorial Hospital,Encinitas,2217.25
+sprain,Tri-City Medical Center,Oceanside,2424.32
+fracture,UC San Diego Health,Escondido,3298.39
+allergic reaction,Scripps Mercy Hospital,Oceanside,2212.67
+infection,Kaiser Permanente San Diego,Chula Vista,2217.25
+stroke,Kaiser Permanente San Diego,Escondido,5130.83
+concussion,Tri-City Medical Center,Oceanside,3434.45
+infection,Sharp Memorial Hospital,Encinitas,2438.98
+allergic reaction,Rady Children's Hospital,San Marcos,2290.55
+infection,Scripps La Jolla,San Marcos,2620.39
+concussion,Tri-City Medical Center,Chula Vista,3598.0
+asthma attack,Sharp Memorial Hospital,Escondido,2620.39
+sprain,Kaiser Permanente San Diego,Escondido,2198.93
+stroke,Sharp Grossmont Hospital,San Marcos,5643.92
+laceration,Sharp Memorial Hospital,Chula Vista,2882.43
+heart attack,UC San Diego Health,Chula Vista,6047.05
+allergic reaction,Tri-City Medical Center,Chula Vista,2116.47
+stroke,Scripps La Jolla,Encinitas,7337.09
+concussion,Kaiser Permanente San Diego,La Jolla,3738.18
+allergic reaction,Scripps Mercy Hospital,Chula Vista,2318.04
+fracture,Rady Children's Hospital,El Cajon,3264.04
+heart attack,Scripps Mercy Hospital,Encinitas,5795.09
+infection,Kaiser Permanente San Diego,Oceanside,2116.47
+infection,Kaiser Permanente San Diego,Oceanside,2116.47
+fracture,Sharp Grossmont Hospital,Hillcrest,3477.06
+infection,Rady Children's Hospital,Chula Vista,2771.57
+concussion,Scripps La Jolla,Oceanside,4252.18
+stroke,Tri-City Medical Center,Encinitas,5926.11
+sprain,Sharp Grossmont Hospital,El Cajon,2297.88
+heart attack,Sharp Memorial Hospital,Chula Vista,5543.13
+infection,Sharp Grossmont Hospital,San Marcos,2217.25
+sprain,Scripps Mercy Hospital,Chula Vista,2781.65
+infection,Rady Children's Hospital,Oceanside,2645.59
+infection,Kaiser Permanente San Diego,El Cajon,1914.9
+asthma attack,Sharp Grossmont Hospital,El Cajon,2489.37
+heart attack,Scripps La Jolla,Encinitas,6550.98
+allergic reaction,Sharp Memorial Hospital,Chula Vista,2217.25
+fracture,Sharp Memorial Hospital,Escondido,3023.53
+concussion,Scripps Mercy Hospital,Escondido,3582.42
+burn,Sharp Grossmont Hospital,Hillcrest,3245.25
+sprain,Scripps Mercy Hospital,Encinitas,2781.65
+stroke,UC San Diego Health,La Jolla,7388.4
+allergic reaction,Scripps Mercy Hospital,Hillcrest,2423.4
+concussion,Sharp Memorial Hospital,Hillcrest,3940.66
+allergic reaction,Kaiser Permanente San Diego,Escondido,1832.44
+laceration,Kaiser Permanente San Diego,Encinitas,2620.39
+burn,Sharp Memorial Hospital,Chula Vista,3104.15
+fracture,UC San Diego Health,Oceanside,3463.31
+infection,Tri-City Medical Center,Encinitas,2328.12
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+burn,Sharp Memorial Hospital,Encinitas,3104.15
+asthma attack,Sharp Grossmont Hospital,El Cajon,2489.37
+infection,Tri-City Medical Center,Escondido,2116.47
+sprain,Tri-City Medical Center,El Cajon,2193.43
+infection,Sharp Grossmont Hospital,El Cajon,2106.39
+burn,Kaiser Permanente San Diego,La Jolla,3078.5
+fracture,Sharp Memorial Hospital,Oceanside,3174.7
+concussion,Tri-City Medical Center,La Jolla,3925.09
+heart attack,Tri-City Medical Center,El Cajon,4569.65
+fracture,Sharp Grossmont Hospital,El Cajon,2872.35
+asthma attack,Rady Children's Hospital,La Jolla,3573.26
+stroke,Scripps La Jolla,Escondido,6670.08
+allergic reaction,Sharp Grossmont Hospital,San Marcos,2015.68
+laceration,Sharp Memorial Hospital,San Marcos,2620.39
+allergic reaction,Rady Children's Hospital,El Cajon,2176.02
+sprain,Sharp Grossmont Hospital,Escondido,2418.82
+stroke,Kaiser Permanente San Diego,El Cajon,4874.29
+stroke,Kaiser Permanente San Diego,San Marcos,5130.83
+laceration,Scripps Mercy Hospital,Chula Vista,3013.45
+burn,Kaiser Permanente San Diego,Hillcrest,2950.23
+heart attack,Tri-City Medical Center,El Cajon,4569.65
+asthma attack,Tri-City Medical Center,Escondido,2501.28
+infection,UC San Diego Health,Chula Vista,2660.7
+fracture,UC San Diego Health,Chula Vista,3628.23
+sprain,Kaiser Permanente San Diego,El Cajon,2088.98
+burn,Tri-City Medical Center,La Jolla,3232.43
+laceration,Scripps Mercy Hospital,Chula Vista,3013.45
+fracture,Tri-City Medical Center,Escondido,2886.09
+infection,Sharp Grossmont Hospital,El Cajon,2106.39
+heart attack,Scripps La Jolla,Encinitas,6550.98
+fracture,Scripps La Jolla,Hillcrest,4109.25
+burn,UC San Diego Health,El Cajon,2924.58
+allergic reaction,Scripps Mercy Hospital,Encinitas,2318.04
+burn,Rady Children's Hospital,El Cajon,3046.43
+allergic reaction,UC San Diego Health,Hillcrest,2528.77
+laceration,Sharp Grossmont Hospital,Encinitas,2882.43
+laceration,UC San Diego Health,Escondido,2858.61
+heart attack,Scripps Mercy Hospital,Escondido,5268.27
+heart attack,Sharp Grossmont Hospital,El Cajon,4787.25
+infection,Sharp Memorial Hospital,La Jolla,2660.7
+stroke,Scripps Mercy Hospital,El Cajon,5605.44
+heart attack,Kaiser Permanente San Diego,Escondido,4581.1
+infection,UC San Diego Health,Escondido,2418.82
+sprain,Rady Children's Hospital,San Marcos,2748.66
+infection,UC San Diego Health,Chula Vista,2660.7
+concussion,Scripps Mercy Hospital,San Marcos,3582.42
+laceration,UC San Diego Health,La Jolla,3430.33
+asthma attack,Tri-City Medical Center,Chula Vista,2751.41
+infection,Scripps Mercy Hospital,Escondido,2318.04
+burn,Tri-City Medical Center,Hillcrest,3097.74
+asthma attack,Scripps La Jolla,La Jolla,3716.19
+fracture,Scripps La Jolla,Chula Vista,3930.59
+stroke,Scripps Mercy Hospital,Chula Vista,6490.51
+heart attack,Rady Children's Hospital,Oceanside,6012.7
+stroke,Scripps La Jolla,Encinitas,7337.09
+laceration,UC San Diego Health,San Marcos,2858.61
+infection,Sharp Memorial Hospital,El Cajon,2106.39
+fracture,Tri-City Medical Center,Encinitas,3174.7
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+laceration,Sharp Memorial Hospital,Oceanside,2751.41
+infection,Tri-City Medical Center,El Cajon,2010.65
+asthma attack,Sharp Memorial Hospital,Hillcrest,3013.45
+stroke,Sharp Memorial Hospital,Encinitas,6208.31
+concussion,Kaiser Permanente San Diego,Oceanside,3270.91
+heart attack,UC San Diego Health,San Marcos,5497.32
+burn,UC San Diego Health,Oceanside,3232.43
+asthma attack,Rady Children's Hospital,Oceanside,3126.6
+sprain,Sharp Grossmont Hospital,Escondido,2418.82
+stroke,Tri-City Medical Center,Chula Vista,5926.11
+asthma attack,Kaiser Permanente San Diego,Oceanside,2501.28
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+sprain,Scripps Mercy Hospital,La Jolla,3034.52
+burn,Sharp Memorial Hospital,La Jolla,3386.35
+laceration,Scripps Mercy Hospital,Encinitas,3013.45
+laceration,Scripps Mercy Hospital,La Jolla,3287.4
+asthma attack,Sharp Grossmont Hospital,Encinitas,2882.43
+stroke,Kaiser Permanente San Diego,La Jolla,6157.0
+infection,Rady Children's Hospital,Hillcrest,2897.55
+fracture,Rady Children's Hospital,Encinitas,3779.41
+sprain,Tri-City Medical Center,La Jolla,2770.65
+infection,Sharp Grossmont Hospital,Oceanside,2328.12
+fracture,Kaiser Permanente San Diego,La Jolla,3298.39
+sprain,Kaiser Permanente San Diego,Hillcrest,2528.77
+laceration,Scripps Mercy Hospital,Hillcrest,3150.42
+laceration,Sharp Grossmont Hospital,Escondido,2620.39
+laceration,Rady Children's Hospital,Chula Vista,3275.49
+stroke,Sharp Grossmont Hospital,Hillcrest,6490.51
+asthma attack,Scripps La Jolla,Encinitas,3406.51
+allergic reaction,Scripps Mercy Hospital,Chula Vista,2318.04
+burn,Sharp Grossmont Hospital,Oceanside,2963.06
+burn,Tri-City Medical Center,Oceanside,2828.37
+infection,Scripps La Jolla,Oceanside,2751.41
+allergic reaction,Sharp Grossmont Hospital,Oceanside,2116.47
+asthma attack,Rady Children's Hospital,Escondido,2977.72
+allergic reaction,Kaiser Permanente San Diego,Oceanside,1924.06
+heart attack,Tri-City Medical Center,San Marcos,4810.16
+fracture,UC San Diego Health,El Cajon,3133.47
+asthma attack,UC San Diego Health,Chula Vista,3144.47
+concussion,UC San Diego Health,El Cajon,3551.27
+laceration,Rady Children's Hospital,Oceanside,3126.6
+fracture,Kaiser Permanente San Diego,Chula Vista,3023.53
+sprain,UC San Diego Health,Encinitas,2902.59
+infection,Sharp Memorial Hospital,Chula Vista,2438.98
+concussion,Scripps La Jolla,Escondido,4049.69
+laceration,Kaiser Permanente San Diego,El Cajon,2263.06
+sprain,Sharp Grossmont Hospital,Escondido,2418.82
+sprain,Scripps La Jolla,Encinitas,3144.47
+burn,Tri-City Medical Center,Hillcrest,3097.74
+asthma attack,Kaiser Permanente San Diego,La Jolla,2858.61
+asthma attack,Sharp Grossmont Hospital,Hillcrest,3013.45
+fracture,Scripps La Jolla,Oceanside,3751.92
+allergic reaction,Sharp Grossmont Hospital,Hillcrest,2318.04
+laceration,UC San Diego Health,San Marcos,2858.61
+fracture,Kaiser Permanente San Diego,La Jolla,3298.39
+infection,Sharp Memorial Hospital,Oceanside,2328.12
+stroke,Rady Children's Hospital,Chula Vista,7054.9
+fracture,Sharp Grossmont Hospital,Encinitas,3325.88
+asthma attack,Scripps Mercy Hospital,Escondido,2739.5
+allergic reaction,Kaiser Permanente San Diego,San Marcos,1832.44
+burn,Sharp Memorial Hospital,Oceanside,2963.06
+sprain,Tri-City Medical Center,La Jolla,2770.65
+stroke,Sharp Grossmont Hospital,El Cajon,5361.72
+sprain,Sharp Grossmont Hospital,San Marcos,2418.82
+burn,Sharp Memorial Hospital,Encinitas,3104.15
+stroke,Rady Children's Hospital,Encinitas,7054.9
+allergic reaction,Rady Children's Hospital,Escondido,2290.55
+laceration,Scripps Mercy Hospital,El Cajon,2602.52
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+sprain,Sharp Grossmont Hospital,San Marcos,2418.82
+infection,Scripps La Jolla,Escondido,2620.39
+infection,Scripps La Jolla,La Jolla,3144.47
+concussion,Sharp Memorial Hospital,Oceanside,3598.0
+asthma attack,Tri-City Medical Center,Chula Vista,2751.41
+heart attack,UC San Diego Health,Escondido,5497.32
+laceration,Scripps La Jolla,Chula Vista,3406.51
+sprain,Scripps Mercy Hospital,La Jolla,3034.52
+laceration,Sharp Memorial Hospital,El Cajon,2489.37
+fracture,Scripps La Jolla,Hillcrest,4109.25
+concussion,Tri-City Medical Center,Encinitas,3598.0
+fracture,Scripps La Jolla,Escondido,3573.26
+stroke,Rady Children's Hospital,Escondido,6413.54
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+asthma attack,Sharp Memorial Hospital,La Jolla,3144.47
+allergic reaction,UC San Diego Health,El Cajon,2088.98
+burn,UC San Diego Health,El Cajon,2924.58
+laceration,Kaiser Permanente San Diego,La Jolla,2858.61
+heart attack,UC San Diego Health,Hillcrest,6321.92
+allergic reaction,Kaiser Permanente San Diego,Oceanside,1924.06
+sprain,UC San Diego Health,El Cajon,2506.78
+allergic reaction,Rady Children's Hospital,San Marcos,2290.55
+stroke,Scripps Mercy Hospital,Oceanside,6195.48
+heart attack,Scripps Mercy Hospital,Chula Vista,5795.09
+laceration,Tri-City Medical Center,La Jolla,3001.54
+fracture,Rady Children's Hospital,El Cajon,3264.04
+infection,Tri-City Medical Center,San Marcos,2116.47
+burn,UC San Diego Health,Oceanside,3232.43
+infection,Scripps La Jolla,El Cajon,2489.37
+laceration,Kaiser Permanente San Diego,La Jolla,2858.61
+concussion,Sharp Grossmont Hospital,La Jolla,4112.0
+stroke,Kaiser Permanente San Diego,Escondido,5130.83
+burn,Scripps La Jolla,San Marcos,3335.04
+burn,Scripps Mercy Hospital,San Marcos,2950.23
+stroke,Rady Children's Hospital,San Marcos,6413.54
+laceration,Sharp Memorial Hospital,San Marcos,2620.39
+concussion,Scripps La Jolla,Encinitas,4454.66
+stroke,Sharp Memorial Hospital,Escondido,5643.92
+burn,Rady Children's Hospital,Chula Vista,3527.45
+concussion,Sharp Memorial Hospital,San Marcos,3426.66
+burn,Sharp Memorial Hospital,Oceanside,2963.06
+sprain,Scripps Mercy Hospital,Chula Vista,2781.65
+infection,Sharp Memorial Hospital,La Jolla,2660.7
+infection,Sharp Grossmont Hospital,San Marcos,2217.25
+concussion,Tri-City Medical Center,El Cajon,3107.36
+burn,Rady Children's Hospital,Hillcrest,3687.79
+burn,Sharp Memorial Hospital,La Jolla,3386.35
+asthma attack,Kaiser Permanente San Diego,Escondido,2382.17
+asthma attack,Rady Children's Hospital,Escondido,2977.72
+fracture,Scripps La Jolla,Hillcrest,4109.25
+heart attack,Sharp Memorial Hospital,Encinitas,5543.13
+infection,Sharp Memorial Hospital,San Marcos,2217.25
+heart attack,Tri-City Medical Center,Chula Vista,5291.17
+burn,Rady Children's Hospital,Escondido,3206.77
+fracture,Sharp Grossmont Hospital,La Jolla,3628.23
+concussion,Sharp Grossmont Hospital,Escondido,3426.66
+laceration,Rady Children's Hospital,Hillcrest,3424.37
+burn,Tri-City Medical Center,Encinitas,2963.06
+infection,Tri-City Medical Center,Escondido,2116.47
+allergic reaction,Sharp Grossmont Hospital,La Jolla,2418.82
+asthma attack,Sharp Grossmont Hospital,Oceanside,2751.41
+allergic reaction,UC San Diego Health,Hillcrest,2528.77
+heart attack,Tri-City Medical Center,La Jolla,5772.19
+laceration,Sharp Grossmont Hospital,La Jolla,3144.47
+stroke,Sharp Grossmont Hospital,La Jolla,6772.7
+laceration,Kaiser Permanente San Diego,Encinitas,2620.39
+allergic reaction,Kaiser Permanente San Diego,El Cajon,1740.82
+heart attack,Sharp Memorial Hospital,San Marcos,5039.21
+concussion,UC San Diego Health,Chula Vista,4112.0
+heart attack,Tri-City Medical Center,Hillcrest,5531.68
+stroke,Scripps Mercy Hospital,Chula Vista,6490.51
+asthma attack,Sharp Memorial Hospital,San Marcos,2620.39
+allergic reaction,Scripps La Jolla,Encinitas,2620.39
+fracture,Sharp Memorial Hospital,Encinitas,3325.88
+asthma attack,Rady Children's Hospital,Encinitas,3275.49
+sprain,Kaiser Permanente San Diego,Oceanside,2308.88
+burn,Scripps Mercy Hospital,Hillcrest,3392.76
+sprain,Tri-City Medical Center,Oceanside,2424.32
+sprain,Sharp Grossmont Hospital,Chula Vista,2660.7
+allergic reaction,Sharp Grossmont Hospital,La Jolla,2418.82
+burn,Scripps La Jolla,Chula Vista,3668.55
+burn,Sharp Memorial Hospital,Chula Vista,3104.15
+fracture,Sharp Grossmont Hospital,El Cajon,2872.35
+concussion,Tri-City Medical Center,El Cajon,3107.36
+burn,Scripps Mercy Hospital,Chula Vista,3245.25
+laceration,UC San Diego Health,El Cajon,2715.68
+fracture,Tri-City Medical Center,Encinitas,3174.7
+heart attack,UC San Diego Health,Encinitas,6047.05
+laceration,Rady Children's Hospital,Encinitas,3275.49
+heart attack,Sharp Grossmont Hospital,Encinitas,5543.13
+sprain,UC San Diego Health,Escondido,2638.71
+stroke,Kaiser Permanente San Diego,Escondido,5130.83
+fracture,Sharp Memorial Hospital,Chula Vista,3325.88
+fracture,Scripps La Jolla,La Jolla,4287.91
+burn,UC San Diego Health,El Cajon,2924.58
+infection,Scripps Mercy Hospital,La Jolla,2781.65
+sprain,Sharp Grossmont Hospital,Chula Vista,2660.7
+burn,Kaiser Permanente San Diego,Chula Vista,2821.96
+heart attack,Scripps La Jolla,La Jolla,7146.52
+sprain,Kaiser Permanente San Diego,Oceanside,2308.88
+infection,Sharp Grossmont Hospital,Hillcrest,2549.84
+allergic reaction,Scripps Mercy Hospital,El Cajon,2001.94
+heart attack,Sharp Memorial Hospital,Hillcrest,5795.09
+concussion,Scripps La Jolla,San Marcos,4049.69
+stroke,Rady Children's Hospital,Escondido,6413.54
+asthma attack,UC San Diego Health,Hillcrest,3287.4
+asthma attack,Scripps Mercy Hospital,Encinitas,3013.45
+asthma attack,Kaiser Permanente San Diego,San Marcos,2382.17
+asthma attack,Scripps La Jolla,El Cajon,2941.98
+stroke,Scripps La Jolla,Chula Vista,7337.09
+asthma attack,Tri-City Medical Center,Encinitas,2751.41
+heart attack,Sharp Memorial Hospital,Escondido,5039.21
+concussion,Rady Children's Hospital,La Jolla,4672.72
+sprain,UC San Diego Health,Encinitas,2902.59
+sprain,Rady Children's Hospital,San Marcos,2748.66
+allergic reaction,UC San Diego Health,Oceanside,2308.88
+infection,Rady Children's Hospital,La Jolla,3023.53
+laceration,Kaiser Permanente San Diego,El Cajon,2263.06
+sprain,Kaiser Permanente San Diego,El Cajon,2088.98
+stroke,Scripps La Jolla,La Jolla,8004.1
+sprain,Scripps La Jolla,Oceanside,3001.54
+allergic reaction,UC San Diego Health,Chula Vista,2418.82
+laceration,Scripps La Jolla,Oceanside,3251.67
+heart attack,Tri-City Medical Center,La Jolla,5772.19
+burn,Tri-City Medical Center,Chula Vista,2963.06
+heart attack,Scripps La Jolla,Encinitas,6550.98
+allergic reaction,UC San Diego Health,El Cajon,2088.98
+asthma attack,Scripps La Jolla,La Jolla,3716.19
+laceration,Scripps La Jolla,Oceanside,3251.67
+sprain,Sharp Memorial Hospital,El Cajon,2297.88
+fracture,Scripps La Jolla,San Marcos,3573.26
+stroke,Sharp Memorial Hospital,San Marcos,5643.92
+burn,Scripps Mercy Hospital,El Cajon,2802.72
+infection,UC San Diego Health,El Cajon,2297.88
+allergic reaction,Scripps Mercy Hospital,Encinitas,2318.04
+laceration,Scripps La Jolla,Encinitas,3406.51
+concussion,Rady Children's Hospital,El Cajon,3699.24
+burn,Scripps Mercy Hospital,Oceanside,3097.74
+fracture,Rady Children's Hospital,Hillcrest,3951.2
+heart attack,UC San Diego Health,Encinitas,6047.05
+stroke,Sharp Memorial Hospital,Escondido,5643.92
+infection,Tri-City Medical Center,El Cajon,2010.65
+infection,Sharp Memorial Hospital,Hillcrest,2549.84
+stroke,Sharp Memorial Hospital,Escondido,5643.92
+fracture,Tri-City Medical Center,San Marcos,2886.09
+stroke,Scripps Mercy Hospital,La Jolla,7080.55
+concussion,UC San Diego Health,Hillcrest,4298.91
+infection,Tri-City Medical Center,La Jolla,2539.76
+sprain,Kaiser Permanente San Diego,La Jolla,2638.71
+asthma attack,Kaiser Permanente San Diego,Escondido,2382.17
+infection,Rady Children's Hospital,Escondido,2519.61
+concussion,Kaiser Permanente San Diego,Oceanside,3270.91
+heart attack,Scripps Mercy Hospital,El Cajon,5004.85
+burn,Sharp Memorial Hospital,El Cajon,2680.86
+sprain,UC San Diego Health,Hillcrest,3034.52
+laceration,Scripps La Jolla,Oceanside,3251.67
+concussion,Sharp Memorial Hospital,El Cajon,3255.33
+asthma attack,Rady Children's Hospital,Chula Vista,3275.49
+sprain,Kaiser Permanente San Diego,Oceanside,2308.88
+stroke,Tri-City Medical Center,La Jolla,6464.85
+burn,UC San Diego Health,Encinitas,3386.35
+fracture,Scripps Mercy Hospital,San Marcos,3160.96
+fracture,Scripps Mercy Hospital,San Marcos,3160.96
+allergic reaction,Sharp Memorial Hospital,Encinitas,2217.25
+asthma attack,Scripps La Jolla,El Cajon,2941.98
+infection,Rady Children's Hospital,Hillcrest,2897.55
+heart attack,Sharp Memorial Hospital,Hillcrest,5795.09
+heart attack,Scripps Mercy Hospital,Encinitas,5795.09
+concussion,Tri-City Medical Center,Encinitas,3598.0
+laceration,Rady Children's Hospital,Chula Vista,3275.49
+asthma attack,Kaiser Permanente San Diego,Oceanside,2501.28
+allergic reaction,Sharp Memorial Hospital,Oceanside,2116.47
+infection,Tri-City Medical Center,Encinitas,2328.12
+fracture,Scripps Mercy Hospital,Encinitas,3477.06
+sprain,Scripps La Jolla,Encinitas,3144.47
+heart attack,Sharp Memorial Hospital,El Cajon,4787.25
+infection,Sharp Memorial Hospital,Hillcrest,2549.84
+allergic reaction,Scripps Mercy Hospital,Oceanside,2212.67
+stroke,Scripps Mercy Hospital,El Cajon,5605.44
+stroke,Tri-City Medical Center,San Marcos,5387.38
+asthma attack,Sharp Grossmont Hospital,Escondido,2620.39
+asthma attack,Rady Children's Hospital,Chula Vista,3275.49
+heart attack,Sharp Grossmont Hospital,Hillcrest,5795.09
+infection,Rady Children's Hospital,San Marcos,2519.61
+allergic reaction,Scripps La Jolla,Escondido,2382.17
+burn,Scripps Mercy Hospital,Encinitas,3245.25
+sprain,Tri-City Medical Center,Oceanside,2424.32
+stroke,Scripps Mercy Hospital,Encinitas,6490.51
+burn,Kaiser Permanente San Diego,San Marcos,2565.42
+sprain,Scripps Mercy Hospital,San Marcos,2528.77
+infection,Tri-City Medical Center,La Jolla,2539.76
+sprain,Rady Children's Hospital,Chula Vista,3023.53
+asthma attack,UC San Diego Health,Chula Vista,3144.47
+burn,Tri-City Medical Center,El Cajon,2559.0
+allergic reaction,Tri-City Medical Center,Escondido,1924.06
+laceration,Scripps La Jolla,El Cajon,2941.98
+asthma attack,Kaiser Permanente San Diego,San Marcos,2382.17
+infection,Scripps Mercy Hospital,La Jolla,2781.65
+asthma attack,Sharp Grossmont Hospital,Chula Vista,2882.43
+concussion,UC San Diego Health,Oceanside,3925.09
+stroke,UC San Diego Health,La Jolla,7388.4
+stroke,Scripps La Jolla,Hillcrest,7670.6
+concussion,UC San Diego Health,Escondido,3738.18
+allergic reaction,Sharp Grossmont Hospital,Oceanside,2116.47
+allergic reaction,Sharp Grossmont Hospital,San Marcos,2015.68
+allergic reaction,Rady Children's Hospital,Chula Vista,2519.61
+heart attack,Sharp Memorial Hospital,Escondido,5039.21
+stroke,Sharp Grossmont Hospital,Oceanside,5926.11
+allergic reaction,Sharp Memorial Hospital,El Cajon,1914.9
+burn,Sharp Memorial Hospital,La Jolla,3386.35
+sprain,UC San Diego Health,Chula Vista,2902.59
+heart attack,Sharp Grossmont Hospital,Chula Vista,5543.13
+sprain,Sharp Memorial Hospital,San Marcos,2418.82
+heart attack,Sharp Grossmont Hospital,Chula Vista,5543.13
+heart attack,Sharp Grossmont Hospital,Encinitas,5543.13
+allergic reaction,Scripps La Jolla,Escondido,2382.17
+burn,Sharp Grossmont Hospital,La Jolla,3386.35
+asthma attack,Tri-City Medical Center,Escondido,2501.28
+stroke,Kaiser Permanente San Diego,San Marcos,5130.83
+stroke,Scripps La Jolla,La Jolla,8004.1
+fracture,Tri-City Medical Center,Oceanside,3030.4
+sprain,Tri-City Medical Center,Hillcrest,2655.21
+burn,Kaiser Permanente San Diego,Encinitas,2821.96
+stroke,Scripps Mercy Hospital,Hillcrest,6785.53
+laceration,Tri-City Medical Center,Hillcrest,2876.47
+stroke,Kaiser Permanente San Diego,La Jolla,6157.0
+infection,UC San Diego Health,Encinitas,2660.7
+heart attack,Tri-City Medical Center,Oceanside,5050.66
+allergic reaction,Scripps La Jolla,El Cajon,2263.06
+concussion,Sharp Memorial Hospital,La Jolla,4112.0
+asthma attack,Kaiser Permanente San Diego,El Cajon,2263.06
+fracture,Tri-City Medical Center,Chula Vista,3174.7
+asthma attack,UC San Diego Health,El Cajon,2715.68
+asthma attack,UC San Diego Health,El Cajon,2715.68
+heart attack,Scripps Mercy Hospital,Chula Vista,5795.09
+stroke,Scripps Mercy Hospital,El Cajon,5605.44
+concussion,Sharp Memorial Hospital,El Cajon,3255.33
+concussion,Kaiser Permanente San Diego,La Jolla,3738.18
+sprain,Sharp Memorial Hospital,Chula Vista,2660.7
+heart attack,Scripps La Jolla,Chula Vista,6550.98
+concussion,Rady Children's Hospital,Encinitas,4283.33
+burn,UC San Diego Health,Oceanside,3232.43
+sprain,Sharp Memorial Hospital,Chula Vista,2660.7
+heart attack,Sharp Grossmont Hospital,San Marcos,5039.21
+laceration,Tri-City Medical Center,Chula Vista,2751.41
+laceration,Scripps La Jolla,La Jolla,3716.19
+concussion,Scripps Mercy Hospital,La Jolla,4298.91
+burn,Tri-City Medical Center,San Marcos,2693.69
+heart attack,Kaiser Permanente San Diego,Encinitas,5039.21
+stroke,Rady Children's Hospital,San Marcos,6413.54
+allergic reaction,Tri-City Medical Center,El Cajon,1827.86
+burn,Sharp Grossmont Hospital,La Jolla,3386.35
+concussion,Tri-City Medical Center,San Marcos,3270.91
+infection,UC San Diego Health,Hillcrest,2781.65
+stroke,Scripps La Jolla,San Marcos,6670.08
+asthma attack,Kaiser Permanente San Diego,Oceanside,2501.28
+concussion,Kaiser Permanente San Diego,Hillcrest,3582.42
+concussion,Sharp Grossmont Hospital,Encinitas,3769.33
+laceration,Rady Children's Hospital,Oceanside,3126.6
+burn,Scripps La Jolla,La Jolla,4002.05
+fracture,Scripps Mercy Hospital,La Jolla,3793.15
+allergic reaction,Scripps Mercy Hospital,Hillcrest,2423.4
+heart attack,Scripps La Jolla,Escondido,5955.43
+concussion,Kaiser Permanente San Diego,Escondido,3115.15
+fracture,UC San Diego Health,Hillcrest,3793.15
+fracture,Rady Children's Hospital,Hillcrest,3951.2
+sprain,Scripps Mercy Hospital,Chula Vista,2781.65
+allergic reaction,Sharp Memorial Hospital,Hillcrest,2318.04
+burn,Kaiser Permanente San Diego,El Cajon,2437.15
+heart attack,Scripps Mercy Hospital,Encinitas,5795.09
+concussion,Sharp Grossmont Hospital,Oceanside,3598.0
+concussion,Sharp Memorial Hospital,Hillcrest,3940.66
+concussion,UC San Diego Health,San Marcos,3738.18
+allergic reaction,Scripps La Jolla,La Jolla,2858.61
+concussion,Kaiser Permanente San Diego,Chula Vista,3426.66
+heart attack,Scripps Mercy Hospital,Encinitas,5795.09
+laceration,Sharp Grossmont Hospital,Chula Vista,2882.43
+heart attack,Scripps Mercy Hospital,Chula Vista,5795.09
+stroke,Sharp Grossmont Hospital,Escondido,5643.92
+asthma attack,Scripps Mercy Hospital,Encinitas,3013.45
+concussion,Scripps Mercy Hospital,La Jolla,4298.91
+sprain,Scripps Mercy Hospital,El Cajon,2402.33
+heart attack,UC San Diego Health,Encinitas,6047.05
+burn,UC San Diego Health,La Jolla,3694.2
+allergic reaction,Kaiser Permanente San Diego,Chula Vista,2015.68
+infection,Sharp Grossmont Hospital,La Jolla,2660.7
+stroke,Tri-City Medical Center,Encinitas,5926.11
+allergic reaction,Sharp Grossmont Hospital,Hillcrest,2318.04
+stroke,Rady Children's Hospital,La Jolla,7696.25
+allergic reaction,Tri-City Medical Center,Hillcrest,2212.67
+asthma attack,Scripps La Jolla,Oceanside,3251.67
+concussion,Sharp Grossmont Hospital,La Jolla,4112.0
+sprain,Scripps La Jolla,Oceanside,3001.54
+sprain,Tri-City Medical Center,El Cajon,2193.43
+laceration,Sharp Memorial Hospital,La Jolla,3144.47
+allergic reaction,Rady Children's Hospital,El Cajon,2176.02
+allergic reaction,Scripps Mercy Hospital,Oceanside,2212.67
+heart attack,Scripps Mercy Hospital,Encinitas,5795.09
+laceration,Sharp Memorial Hospital,La Jolla,3144.47
+laceration,UC San Diego Health,Escondido,2858.61
+heart attack,Sharp Grossmont Hospital,Hillcrest,5795.09
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+stroke,Tri-City Medical Center,La Jolla,6464.85
+fracture,Scripps La Jolla,La Jolla,4287.91
+infection,UC San Diego Health,San Marcos,2418.82
+sprain,Rady Children's Hospital,Encinitas,3023.53
+stroke,Sharp Memorial Hospital,Escondido,5643.92
+sprain,UC San Diego Health,Chula Vista,2902.59
+heart attack,UC San Diego Health,Encinitas,6047.05
+asthma attack,UC San Diego Health,Escondido,2858.61
+burn,UC San Diego Health,Chula Vista,3386.35
+fracture,Kaiser Permanente San Diego,Hillcrest,3160.96
+heart attack,Sharp Memorial Hospital,Hillcrest,5795.09
+sprain,Scripps Mercy Hospital,Encinitas,2781.65
+asthma attack,Rady Children's Hospital,Hillcrest,3424.37
+laceration,Sharp Grossmont Hospital,Oceanside,2751.41
+allergic reaction,Scripps La Jolla,Hillcrest,2739.5
+asthma attack,Sharp Memorial Hospital,Oceanside,2751.41
+laceration,UC San Diego Health,Chula Vista,3144.47
+infection,Scripps Mercy Hospital,Hillcrest,2665.74
+concussion,Sharp Memorial Hospital,San Marcos,3426.66
+burn,Scripps La Jolla,Chula Vista,3668.55
+heart attack,Rady Children's Hospital,La Jolla,6871.65
+burn,Scripps Mercy Hospital,San Marcos,2950.23
+burn,UC San Diego Health,Encinitas,3386.35
+sprain,UC San Diego Health,La Jolla,3166.46
+burn,Scripps Mercy Hospital,El Cajon,2802.72
+allergic reaction,Tri-City Medical Center,Chula Vista,2116.47
+laceration,Sharp Memorial Hospital,El Cajon,2489.37
+stroke,Tri-City Medical Center,San Marcos,5387.38
+laceration,Sharp Memorial Hospital,La Jolla,3144.47
+asthma attack,Sharp Memorial Hospital,Encinitas,2882.43
+asthma attack,Scripps Mercy Hospital,El Cajon,2602.52
+infection,Sharp Grossmont Hospital,La Jolla,2660.7
+stroke,Rady Children's Hospital,Escondido,6413.54
+sprain,Scripps Mercy Hospital,Oceanside,2655.21
+stroke,Rady Children's Hospital,Encinitas,7054.9
+laceration,Kaiser Permanente San Diego,La Jolla,2858.61
+laceration,Scripps Mercy Hospital,Chula Vista,3013.45
+heart attack,Tri-City Medical Center,Chula Vista,5291.17
+burn,UC San Diego Health,La Jolla,3694.2
+infection,Kaiser Permanente San Diego,Escondido,2015.68
+allergic reaction,Kaiser Permanente San Diego,Oceanside,1924.06
+asthma attack,Tri-City Medical Center,La Jolla,3001.54
+sprain,UC San Diego Health,Chula Vista,2902.59
+burn,UC San Diego Health,Encinitas,3386.35
+stroke,Scripps Mercy Hospital,Hillcrest,6785.53
+laceration,Tri-City Medical Center,Oceanside,2626.35
+allergic reaction,Rady Children's Hospital,Oceanside,2405.08
+laceration,Scripps Mercy Hospital,Oceanside,2876.47
+laceration,Scripps Mercy Hospital,Escondido,2739.5
+allergic reaction,Rady Children's Hospital,San Marcos,2290.55
+laceration,Scripps Mercy Hospital,Encinitas,3013.45
+asthma attack,Tri-City Medical Center,La Jolla,3001.54
+allergic reaction,Sharp Memorial Hospital,Escondido,2015.68
+asthma attack,Tri-City Medical Center,Chula Vista,2751.41
+allergic reaction,Scripps La Jolla,Chula Vista,2620.39
+heart attack,Rady Children's Hospital,Oceanside,6012.7
+concussion,Rady Children's Hospital,Oceanside,4088.63
+burn,UC San Diego Health,La Jolla,3694.2
+concussion,Sharp Memorial Hospital,Hillcrest,3940.66
+heart attack,Tri-City Medical Center,San Marcos,4810.16
+burn,Scripps La Jolla,Escondido,3335.04
+concussion,Sharp Memorial Hospital,Chula Vista,3769.33
+asthma attack,Rady Children's Hospital,Hillcrest,3424.37
+allergic reaction,Tri-City Medical Center,Escondido,1924.06
+asthma attack,Tri-City Medical Center,Encinitas,2751.41
+concussion,UC San Diego Health,San Marcos,3738.18
+laceration,Rady Children's Hospital,Oceanside,3126.6
+allergic reaction,Rady Children's Hospital,Chula Vista,2519.61
+asthma attack,UC San Diego Health,San Marcos,2858.61
+fracture,UC San Diego Health,Encinitas,3628.23
+stroke,UC San Diego Health,San Marcos,6157.0
+stroke,Sharp Grossmont Hospital,Encinitas,6208.31
+sprain,Tri-City Medical Center,Encinitas,2539.76
+laceration,Scripps Mercy Hospital,La Jolla,3287.4
+allergic reaction,Rady Children's Hospital,Chula Vista,2519.61
+infection,Kaiser Permanente San Diego,Escondido,2015.68
+sprain,UC San Diego Health,Encinitas,2902.59
+concussion,Sharp Memorial Hospital,Encinitas,3769.33
+asthma attack,UC San Diego Health,Encinitas,3144.47
+heart attack,Sharp Memorial Hospital,San Marcos,5039.21
+burn,Scripps La Jolla,Encinitas,3668.55
+fracture,Scripps Mercy Hospital,San Marcos,3160.96
+infection,UC San Diego Health,El Cajon,2297.88
+allergic reaction,Kaiser Permanente San Diego,Escondido,1832.44
+sprain,Scripps La Jolla,La Jolla,3430.33
+stroke,Scripps La Jolla,La Jolla,8004.1
+sprain,Sharp Grossmont Hospital,Oceanside,2539.76
+heart attack,UC San Diego Health,Oceanside,5772.19
+infection,Sharp Memorial Hospital,Hillcrest,2549.84
+stroke,Rady Children's Hospital,Chula Vista,7054.9
+infection,Rady Children's Hospital,Hillcrest,2897.55
+heart attack,Rady Children's Hospital,Escondido,5726.38
+infection,Scripps La Jolla,El Cajon,2489.37
+stroke,Sharp Grossmont Hospital,El Cajon,5361.72
+fracture,Scripps Mercy Hospital,Oceanside,3319.01
+infection,Tri-City Medical Center,Encinitas,2328.12
+stroke,Scripps Mercy Hospital,Encinitas,6490.51
+stroke,Kaiser Permanente San Diego,Encinitas,5643.92
+asthma attack,Scripps La Jolla,Hillcrest,3561.35
+laceration,Tri-City Medical Center,Hillcrest,2876.47
+sprain,Sharp Grossmont Hospital,Chula Vista,2660.7
+concussion,Scripps Mercy Hospital,Hillcrest,4119.79
+burn,Kaiser Permanente San Diego,Hillcrest,2950.23
+burn,Tri-City Medical Center,Chula Vista,2963.06
+laceration,UC San Diego Health,El Cajon,2715.68
+allergic reaction,Sharp Memorial Hospital,Encinitas,2217.25
+infection,Sharp Grossmont Hospital,Encinitas,2438.98
+fracture,Kaiser Permanente San Diego,Escondido,2748.66
+sprain,UC San Diego Health,Escondido,2638.71
+stroke,Scripps La Jolla,San Marcos,6670.08
+asthma attack,Scripps La Jolla,Oceanside,3251.67
+heart attack,Tri-City Medical Center,Encinitas,5291.17
+concussion,Sharp Memorial Hospital,El Cajon,3255.33
+burn,Kaiser Permanente San Diego,Escondido,2565.42
+heart attack,Scripps La Jolla,El Cajon,5657.66
+fracture,Sharp Memorial Hospital,Oceanside,3174.7
+concussion,Tri-City Medical Center,Chula Vista,3598.0
+asthma attack,Sharp Memorial Hospital,El Cajon,2489.37
+burn,Sharp Memorial Hospital,Chula Vista,3104.15
+burn,Rady Children's Hospital,Hillcrest,3687.79
+fracture,Scripps La Jolla,Chula Vista,3930.59
+heart attack,Kaiser Permanente San Diego,Oceanside,4810.16
+burn,Rady Children's Hospital,La Jolla,3848.13
+infection,Scripps La Jolla,Chula Vista,2882.43
+infection,Tri-City Medical Center,Chula Vista,2328.12
+stroke,Kaiser Permanente San Diego,Hillcrest,5900.46
+fracture,Sharp Grossmont Hospital,Encinitas,3325.88
+burn,Tri-City Medical Center,Oceanside,2828.37
+burn,UC San Diego Health,Oceanside,3232.43
+concussion,Tri-City Medical Center,El Cajon,3107.36
+asthma attack,Sharp Memorial Hospital,Encinitas,2882.43
+infection,Scripps Mercy Hospital,Encinitas,2549.84
+fracture,Sharp Memorial Hospital,Hillcrest,3477.06
+concussion,UC San Diego Health,San Marcos,3738.18
+asthma attack,Rady Children's Hospital,Encinitas,3275.49
+infection,Scripps Mercy Hospital,Oceanside,2433.94
+fracture,Rady Children's Hospital,Escondido,3435.83
+concussion,Rady Children's Hospital,La Jolla,4672.72
+sprain,Tri-City Medical Center,Hillcrest,2655.21
+stroke,Sharp Grossmont Hospital,Escondido,5643.92
+heart attack,Scripps La Jolla,La Jolla,7146.52
+infection,Sharp Grossmont Hospital,Chula Vista,2438.98
+allergic reaction,Scripps La Jolla,San Marcos,2382.17
+infection,UC San Diego Health,El Cajon,2297.88
+infection,Scripps La Jolla,El Cajon,2489.37
+heart attack,Scripps Mercy Hospital,Escondido,5268.27
+heart attack,Sharp Grossmont Hospital,Encinitas,5543.13
+concussion,Sharp Memorial Hospital,San Marcos,3426.66
+allergic reaction,Sharp Memorial Hospital,Hillcrest,2318.04
+burn,Rady Children's Hospital,El Cajon,3046.43
+heart attack,Scripps La Jolla,Hillcrest,6848.75
+asthma attack,Sharp Grossmont Hospital,Hillcrest,3013.45
+fracture,Sharp Grossmont Hospital,El Cajon,2872.35
+allergic reaction,Sharp Memorial Hospital,Encinitas,2217.25
+asthma attack,Sharp Memorial Hospital,Escondido,2620.39
+burn,Sharp Grossmont Hospital,El Cajon,2680.86
+stroke,Tri-City Medical Center,La Jolla,6464.85
+concussion,Kaiser Permanente San Diego,Encinitas,3426.66
+stroke,Tri-City Medical Center,Escondido,5387.38
+fracture,UC San Diego Health,Chula Vista,3628.23
+concussion,Kaiser Permanente San Diego,Encinitas,3426.66
+sprain,Kaiser Permanente San Diego,San Marcos,2198.93
+burn,Tri-City Medical Center,Escondido,2693.69
+fracture,Scripps Mercy Hospital,El Cajon,3002.91
+heart attack,Scripps Mercy Hospital,Oceanside,5531.68
+asthma attack,Tri-City Medical Center,San Marcos,2501.28
+concussion,Tri-City Medical Center,Hillcrest,3761.54
+infection,UC San Diego Health,El Cajon,2297.88
+burn,UC San Diego Health,Chula Vista,3386.35
+infection,Tri-City Medical Center,Chula Vista,2328.12
+infection,Sharp Memorial Hospital,La Jolla,2660.7
+concussion,Scripps La Jolla,San Marcos,4049.69
+infection,UC San Diego Health,El Cajon,2297.88
+concussion,Scripps Mercy Hospital,Escondido,3582.42
+burn,Scripps Mercy Hospital,Chula Vista,3245.25
+stroke,Scripps La Jolla,Oceanside,7003.59
+concussion,Kaiser Permanente San Diego,Oceanside,3270.91
+sprain,Scripps La Jolla,Chula Vista,3144.47
+fracture,Sharp Memorial Hospital,El Cajon,2872.35
+infection,Tri-City Medical Center,San Marcos,2116.47
+infection,Sharp Memorial Hospital,Hillcrest,2549.84
+laceration,Sharp Memorial Hospital,Escondido,2620.39
+laceration,Scripps Mercy Hospital,San Marcos,2739.5
+heart attack,Scripps Mercy Hospital,Hillcrest,6058.51
+burn,UC San Diego Health,Encinitas,3386.35
+infection,Kaiser Permanente San Diego,Oceanside,2116.47
+burn,Tri-City Medical Center,Oceanside,2828.37
+burn,Kaiser Permanente San Diego,La Jolla,3078.5
+sprain,Rady Children's Hospital,Chula Vista,3023.53
+burn,Rady Children's Hospital,El Cajon,3046.43
+burn,Rady Children's Hospital,Chula Vista,3527.45
+sprain,Sharp Grossmont Hospital,Hillcrest,2781.65
+sprain,UC San Diego Health,Encinitas,2902.59
+allergic reaction,UC San Diego Health,Escondido,2198.93
+sprain,UC San Diego Health,La Jolla,3166.46
+heart attack,Scripps Mercy Hospital,El Cajon,5004.85
+fracture,Scripps Mercy Hospital,El Cajon,3002.91
+fracture,Scripps Mercy Hospital,Hillcrest,3635.1
+asthma attack,Rady Children's Hospital,Escondido,2977.72
+burn,Scripps La Jolla,La Jolla,4002.05

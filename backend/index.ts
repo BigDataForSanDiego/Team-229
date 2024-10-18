@@ -3,6 +3,7 @@ import path from "path";
 import dotenv from "dotenv";
 import { connectDB } from "./db/connect";
 import authRouter from "./routers/authRouter";
+import hospitalRouter from "./routers/hospitalRouter";
 import { authmiddleware } from "./middleware/authmiddle";
 
 dotenv.config({path: path.resolve(__dirname, '../.env') });
@@ -13,6 +14,7 @@ app.use(express.urlencoded({extended: true, limit: '50 mb'}))
 app.use(express.json({limit: '50 mb'}))
 
 app.use('/api/auth', authRouter)
+app.use('/api/hospitals', hospitalRouter)
 
 const port = process.env.PORT || 5000
 const start = async () => {
